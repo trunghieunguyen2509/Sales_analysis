@@ -78,6 +78,8 @@ The goal: to turn raw data into **actionable recommendations** that optimize ope
 > 💡 *Below is a sample dashboard preview
 ![Sales](images/Sales.png)
 ![Product](images/Product.png)
+![Purchase](images/purchase_pattern.png)
+![Exploratory](images/Exploratory_analysis.png)
 ---
 
 ## 🛠️ Tools & Technologies  
